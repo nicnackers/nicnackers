@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicnackers
 - 👀 I’m interested in ... arduino + biomimicry + somatosensory systems
-- 🌱 I’m currently learning ... c++ 
+- 🌱 I’m currently learning ... c++ + ardiuno
 - 💞️ I’m looking to collaborate on ... sculptural coding projects
 - 📫 How to reach me ...
 
